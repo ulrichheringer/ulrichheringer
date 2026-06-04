@@ -8,3 +8,9 @@
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ulrichheringer&show_icons=true&theme=darcula&border_radius=25" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichheringer&layout=compact&border_radius=20&theme=tokyonight" />
 </div>
+
+![C#](https://img.shields.io/badge/C%23-.NET%208-blue)
+![Kotlin](https://img.shields.io/badge/Kotlin-Spring%20Boot-purple)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange)
+![OpenShift](https://img.shields.io/badge/OpenShift-Kubernetes-red)
