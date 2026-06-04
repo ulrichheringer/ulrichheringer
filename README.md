@@ -7,3 +7,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-Messaging-orange)
 ![OpenShift](https://img.shields.io/badge/OpenShift-Kubernetes-red)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,kotlin,java,spring,postgres,redis,rabbitmq,docker,kubernetes,git" />
+</p>
