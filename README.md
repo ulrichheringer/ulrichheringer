@@ -2,6 +2,13 @@
 
 ![Snake animation](https://github.com/ulrichheringer/ulrichheringer/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ulrichheringer&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 ![C#](https://img.shields.io/badge/C%23-.NET%208-blue)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Spring%20Boot-purple)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
