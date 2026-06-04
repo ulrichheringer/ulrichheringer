@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Pedro Ulrich and I'm from Brazil 🇧🇷 (SP)
-- Fluent English
-- 👀 I’m interested in **Backend**
-- 🌱 I’m currently learning and developing in **PHP and Laravel ❤️**
-- Currently working with Kotlin & Java
-- I have already worked with **GoLang, JS/TS, Java, Rust, Python and C/C++**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Backend+Engineer;C%23+%7C+.NET+%7C+Kotlin;Distributed+Systems+Enthusiast" />
 <div>
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=ulrichheringer&show_icons=true&theme=darcula&border_radius=25" />
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ulrichheringer&layout=compact&border_radius=20&theme=tokyonight" />
